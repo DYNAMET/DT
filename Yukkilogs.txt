@@ -1,0 +1,370 @@
+[21-Oct-22 16:49:08 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 16:49:11 - INFO] - YukkiMusic.core.git - Fetched Updates from: https://github.com/hh/hh
+[21-Oct-22 16:49:11 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 16:49:11 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 16:49:11 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 16:49:13 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 16:49:20 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 16:51:54 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 16:51:54 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 16:51:54 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 16:51:54 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 16:51:54 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 16:51:56 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 16:51:58 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 16:56:48 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 16:56:48 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 16:56:48 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 16:56:49 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 16:56:49 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 16:56:51 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 16:56:54 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 17:32:06 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 17:32:06 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 17:32:06 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 17:32:06 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 17:32:06 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 17:32:08 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 17:32:10 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 18:06:15 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 18:06:15 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 18:06:15 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 18:06:16 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 18:06:16 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 18:06:17 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 18:06:20 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 18:08:37 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 18:08:37 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 18:08:37 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 18:08:38 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 18:08:38 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 18:08:39 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 18:08:42 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 18:18:07 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 18:18:07 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 18:18:07 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 18:18:08 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 18:18:08 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 18:18:09 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 18:18:12 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 18:27:55 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 18:27:55 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 18:27:55 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 18:27:56 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 18:27:56 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 18:27:58 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 18:28:00 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 18:28:00 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[21-Oct-22 18:28:00 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[21-Oct-22 18:28:02 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝙝𝙀𝙡𝙋𝙀𝙍 𝙨𝙋𝙋𝙀𝙙 𝙑𝙞𝙋𝁂
+[21-Oct-22 18:28:02 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[21-Oct-22 18:28:05 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[21-Oct-22 18:28:10 - ERROR] - pyrogram.dispatcher - 'Message' object has no attribute 'video_chat_members_invited'
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 210, in fuckoff
+    for user in message.video_chat_members_invited.users:
+AttributeError: 'Message' object has no attribute 'video_chat_members_invited'
+[21-Oct-22 18:29:21 - ERROR] - pyrogram.dispatcher - 'Message' object has no attribute 'video_chat_members_invited'
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 210, in fuckoff
+    for user in message.video_chat_members_invited.users:
+AttributeError: 'Message' object has no attribute 'video_chat_members_invited'
+[21-Oct-22 18:32:38 - ERROR] - pyrogram.dispatcher - Failed to decode "assets/Playlist.jpeg". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/utils.py", line 47, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/utils/decorators/play.py", line 66, in wrapper
+    return await message.reply_photo(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/types/messages_and_media/message.py", line 1977, in reply_photo
+    return await self._client.send_photo(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/messages/send_photo.py", line 161, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    raise ValueError(f'Failed to decode "{file_id}". The value does not represent an existing local file, '
+ValueError: Failed to decode "assets/Playlist.jpeg". The value does not represent an existing local file, HTTP URL, or valid file id.
+[21-Oct-22 18:32:45 - ERROR] - pyrogram.dispatcher - Failed to decode "assets/Playlist.jpeg". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/utils.py", line 47, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/utils/decorators/play.py", line 66, in wrapper
+    return await message.reply_photo(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/types/messages_and_media/message.py", line 1977, in reply_photo
+    return await self._client.send_photo(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/messages/send_photo.py", line 161, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    raise ValueError(f'Failed to decode "{file_id}". The value does not represent an existing local file, '
+ValueError: Failed to decode "assets/Playlist.jpeg". The value does not represent an existing local file, HTTP URL, or valid file id.
+[21-Oct-22 18:35:50 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 18:35:50 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 18:35:50 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 18:35:51 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 18:35:51 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 18:35:52 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 18:35:55 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 18:35:55 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[21-Oct-22 18:35:55 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[21-Oct-22 18:35:56 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝙝𝙀𝙡𝙋𝙀𝙍 𝙨𝙋𝙋𝙀𝙙 𝙑𝙞𝙋𝁂
+[21-Oct-22 18:35:56 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[21-Oct-22 18:35:59 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[21-Oct-22 18:37:26 - ERROR] - pyrogram.dispatcher - name 'os' is not defined
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 196, in telegraph
+    os.remove(download_location)
+NameError: name 'os' is not defined
+[21-Oct-22 18:43:00 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'write'
+Traceback (most recent call last):
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 168, in paste_func
+    await message.reply_photo(photo=link,quote=False,caption="تم نسخ النص",reply_markup=InlineKeyboardMarkup(kb),)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/types/messages_and_media/message.py", line 1977, in reply_photo
+    return await self._client.send_photo(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/messages/send_photo.py", line 171, in send_photo
+    r = await self.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/advanced/send.py", line 77, in send
+    r = await self.session.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    return await self._send(data, timeout=timeout)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 291, in _send
+    message = self.msg_factory(data)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/internals/msg_factory.py", line 37, in __call__
+    len(body)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/tl_object.py", line 79, in __len__
+    return len(self.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/functions/messages/send_media.py", line 127, in write
+    b.write(self.media.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/types/input_media_uploaded_photo.py", line 77, in write
+    b.write(self.file.write())
+AttributeError: 'NoneType' object has no attribute 'write'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 173, in paste_func
+    await m.edit("فتح الرابط", reply_markup=InlineKeyboardMarkup(kb))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/types/messages_and_media/message.py", line 2742, in edit_text
+    return await self._client.edit_message_text(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/messages/edit_message_text.py", line 83, in edit_message_text
+    r = await self.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/advanced/send.py", line 77, in send
+    r = await self.session.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    return await self._send(data, timeout=timeout)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 291, in _send
+    message = self.msg_factory(data)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/internals/msg_factory.py", line 37, in __call__
+    len(body)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/tl_object.py", line 79, in __len__
+    return len(self.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/functions/messages/edit_message.py", line 113, in write
+    b.write(self.reply_markup.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/types/reply_inline_markup.py", line 66, in write
+    b.write(Vector(self.rows))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in __new__
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in <listcomp>
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/types/keyboard_button_row.py", line 66, in write
+    b.write(Vector(self.buttons))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in __new__
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in <listcomp>
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+AttributeError: 'NoneType' object has no attribute 'write'
+[21-Oct-22 18:43:21 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'write'
+Traceback (most recent call last):
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 168, in paste_func
+    await message.reply_photo(photo=link,quote=False,caption="تم نسخ النص",reply_markup=InlineKeyboardMarkup(kb),)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/types/messages_and_media/message.py", line 1977, in reply_photo
+    return await self._client.send_photo(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/messages/send_photo.py", line 171, in send_photo
+    r = await self.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/advanced/send.py", line 77, in send
+    r = await self.session.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    return await self._send(data, timeout=timeout)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 291, in _send
+    message = self.msg_factory(data)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/internals/msg_factory.py", line 37, in __call__
+    len(body)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/tl_object.py", line 79, in __len__
+    return len(self.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/functions/messages/send_media.py", line 127, in write
+    b.write(self.media.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/types/input_media_uploaded_photo.py", line 77, in write
+    b.write(self.file.write())
+AttributeError: 'NoneType' object has no attribute 'write'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 173, in paste_func
+    await m.edit("فتح الرابط", reply_markup=InlineKeyboardMarkup(kb))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/types/messages_and_media/message.py", line 2742, in edit_text
+    return await self._client.edit_message_text(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/messages/edit_message_text.py", line 83, in edit_message_text
+    r = await self.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/methods/advanced/send.py", line 77, in send
+    r = await self.session.send(
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    return await self._send(data, timeout=timeout)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/session.py", line 291, in _send
+    message = self.msg_factory(data)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/session/internals/msg_factory.py", line 37, in __call__
+    len(body)
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/tl_object.py", line 79, in __len__
+    return len(self.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/functions/messages/edit_message.py", line 113, in write
+    b.write(self.reply_markup.write())
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/types/reply_inline_markup.py", line 66, in write
+    b.write(Vector(self.rows))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in __new__
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in <listcomp>
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/types/keyboard_button_row.py", line 66, in write
+    b.write(Vector(self.buttons))
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in __new__
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/raw/core/primitives/vector.py", line 58, in <listcomp>
+    + [cast(bytes, t(i)) if t else i.write() for i in value]
+AttributeError: 'NoneType' object has no attribute 'write'
+[21-Oct-22 18:45:17 - ERROR] - pyrogram.dispatcher - name 'Translator' is not defined
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 94, in tr
+    trl = Translator()
+NameError: name 'Translator' is not defined
+[21-Oct-22 18:45:24 - ERROR] - pyrogram.dispatcher - name 'Translator' is not defined
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 94, in tr
+    trl = Translator()
+NameError: name 'Translator' is not defined
+[21-Oct-22 18:45:29 - ERROR] - pyrogram.dispatcher - name 'Translator' is not defined
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 94, in tr
+    trl = Translator()
+NameError: name 'Translator' is not defined
+[21-Oct-22 18:51:28 - ERROR] - pyrogram.dispatcher - 'Message' object has no attribute 'video_chat_members_invited'
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 210, in fuckoff
+    for user in message.video_chat_members_invited.users:
+AttributeError: 'Message' object has no attribute 'video_chat_members_invited'
+[21-Oct-22 19:03:58 - ERROR] - pyrogram.dispatcher - 'Message' object has no attribute 'video_chat_members_invited'
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 210, in fuckoff
+    for user in message.video_chat_members_invited.users:
+AttributeError: 'Message' object has no attribute 'video_chat_members_invited'
+[21-Oct-22 19:04:14 - ERROR] - pyrogram.dispatcher - 'Message' object has no attribute 'video_chat_members_invited'
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 210, in fuckoff
+    for user in message.video_chat_members_invited.users:
+AttributeError: 'Message' object has no attribute 'video_chat_members_invited'
+[21-Oct-22 19:05:54 - ERROR] - pyrogram.dispatcher - 'Message' object has no attribute 'video_chat_members_invited'
+Traceback (most recent call last):
+  File "/home/semo/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/semo/music/source/YukkiMusic/plugins/play/jabwa.py", line 210, in fuckoff
+    for user in message.video_chat_members_invited.users:
+AttributeError: 'Message' object has no attribute 'video_chat_members_invited'
+[21-Oct-22 20:16:41 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 20:16:41 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 20:16:41 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 20:16:42 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 20:16:42 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 20:16:45 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 20:16:48 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 20:25:51 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 20:25:51 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 20:25:51 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 20:25:52 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 20:25:52 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 20:25:54 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 20:25:56 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 20:30:37 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 20:30:37 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 20:30:37 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 20:30:37 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 20:30:37 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 20:30:39 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 20:30:42 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 20:54:39 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 20:54:39 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 20:54:39 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 20:54:40 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 20:54:40 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 20:54:41 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 20:54:43 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 20:56:05 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 20:56:05 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 20:56:05 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 20:56:06 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 20:56:06 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 20:56:08 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 20:56:10 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[21-Oct-22 21:04:15 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[21-Oct-22 21:04:15 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[21-Oct-22 21:04:15 - INFO] - YukkiMusic.misc - Database Initialized.
+[21-Oct-22 21:04:16 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[21-Oct-22 21:04:16 - INFO] - YukkiMusic.core.bot - Starting Bot
+[21-Oct-22 21:04:18 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[21-Oct-22 21:04:20 - INFO] - YukkiMusic.core.bot - MusicBot Started as 𝙨𝙋𝙋𝙀𝙙 𝙈𝙪𝙞𝙨𝘾 𝙑 𝙞 𝙋
+[22-Oct-22 09:30:51 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[22-Oct-22 09:30:51 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[22-Oct-22 09:30:51 - INFO] - YukkiMusic.misc - Database Initialized.
+[22-Oct-22 09:30:52 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[22-Oct-22 09:30:52 - INFO] - YukkiMusic.core.bot - Starting Bot
+[22-Oct-22 09:30:53 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[22-Oct-22 09:30:56 - ERROR] - YukkiMusic.core.bot - Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!
